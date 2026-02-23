@@ -68,9 +68,6 @@
 ---
 
 ## 🐍 Contribution Snake Animation (Looks Amazing)
-
-> Steps: isko chalane ke liye tumhe ek GitHub Action add karna padega. Niche instructions hain.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/nakulgadhewal050/nakulgadhewal050/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
