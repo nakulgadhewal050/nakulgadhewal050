@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nakul Gadhewal</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Specialist</h3>
 
+<!-- Coding GIF Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Secure+%26+Scalable+Applications;Passionate+Software+Engineer" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Secure+%26+Scalable+Apps;DSA+%2B+Problem+Solving+Daily;Open+to+Internship+%2F+Job+Opportunities" />
 </p>
 
 ---
@@ -20,39 +25,32 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/nakulgadhewal050" target="blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO_LINK" target="blank">
-<img src="https://img.shields.io/badge/Portfolio-00008B?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/nakulgadhewal050" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00008B?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-004d00?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0A66C2?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,vercel&theme=dark" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakulgadhewal050&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nakulgadhewal050&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulgadhewal050&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -61,40 +59,32 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nakulgadhewal050&theme=tokyonight&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nakulgadhewal050&theme=tokyo-night" />
 </p>
 
+---
 
-## 📌 Featured Projects
+## 🐍 Contribution Snake Animation (Looks Amazing)
 
-### 📄 Document Verification System
-A secure full-stack web application for managing and verifying student documents.  
-- JWT Authentication  
-- Admin Dashboard  
-- Document Upload & Status Tracking  
-- MongoDB Integration  
+> Steps: isko chalane ke liye tumhe ek GitHub Action add karna padega. Niche instructions hain.
 
-### 🛒 OneCart – E-Commerce Platform
-Full-stack MERN application with secure authentication & cart management.
-
-### 💼 Job Listing Portal
-Dynamic platform connecting employers and job seekers with advanced filtering.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nakulgadhewal050/nakulgadhewal050/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
 ## ✨ Developer Mindset
 
-> "Consistency beats motivation. Build daily. Improve daily."
+> Consistency beats motivation. Build daily. Improve daily.
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nakulgadhewal050&icon=2&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=nakulgadhewal050&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
-
----
 
 ⭐ From Nakul Gadhewal
